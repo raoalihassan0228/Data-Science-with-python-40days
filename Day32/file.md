@@ -1,0 +1,1 @@
+## In day 32 we learnt Complete Activation functions
